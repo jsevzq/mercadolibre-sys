@@ -63,7 +63,7 @@ Cuando el stock que dicen los lotes no coincide con el de Mercado Libre, el dete
 Hace falta Node 22 y Docker. **No hacen falta credenciales de Mercado Libre**: el seed carga datos de demostración.
 
 ```bash
-git clone https://github.com/jsevzq/mercadolibre-sys.git && cd ml-sys
+git clone https://github.com/jsevzq/mercadolibre-sys.git && cd mercadolibre-sys
 
 # 1 · Backend
 cd backend
